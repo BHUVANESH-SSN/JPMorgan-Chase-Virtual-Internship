@@ -111,13 +111,16 @@ Analyzed configuration files and application structure
 Understood integration points for external dependencies
 
 ## Task Execution Results
-Test Execution
-Successfully executed TaskOneTests with all dependencies properly configured.
-Output Generated:
+### Test Execution
+### Successfully executed TaskOneTests with all dependencies properly configured.
+## Output Generated:
+```bash
 ---begin output --- 
 1142725631254665682354316777216387420489 
 ---end output ---
 ---
+```
+
 
 ## 📦 Task 2: Kafka Integration – Midas Core Message Listener
 
