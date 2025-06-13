@@ -1,2 +1,2 @@
-# JPMorganChase-Forage-Job-Simulation
-JPMorgan Midas Core Backend Project
+# Midas
+Completed project repo for the JPMC Advanced Software Engineering Forage program
