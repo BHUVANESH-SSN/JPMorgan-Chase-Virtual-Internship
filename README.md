@@ -5,7 +5,7 @@ This repository contains the solution to the **JPMorgan Chase Software Engineeri
 ---
 ## My Certificate 
 
-![JPMorganChase Virtual Job Simulation](./assets/JPMC_FORAGE_BHUVANESH_S.png)
+![JPMorganChase Virtual Job Simulation](./assets/JPMC_FORAGE_CERTIFICATE.png)
 
 ## 💼 About the Project
 
