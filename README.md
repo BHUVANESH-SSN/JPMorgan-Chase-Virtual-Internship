@@ -333,7 +333,7 @@ Balance {amount=0.0}
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/BHUVANESH-SSN/JPMorganChase-Forage-Job-Simulation.git
+git clone https://github.com/BHUVANESH-SSN/JPMorgan-Chase-Virtual-Internship.git
 cd JPMorganChase-Forage-Job-Simulation
 ```
 
