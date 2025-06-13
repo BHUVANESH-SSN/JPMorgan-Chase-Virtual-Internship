@@ -72,3 +72,10 @@ cd JPMorganChase-Forage-Job-Simulation
  # Bhuvanesh S
 ## Pre-final year student at SSN College of Engineering
 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvanesh-cse) | 🌐 [GitHub](https://github.com/BHUVANESH-SSN)
+
+## 📚 Educational Use Only
+
+This project is intended **solely for educational and learning purposes**.  
+You are welcome to explore, clone, and study the code — but please **do not use it for cheating, plagiarism, or violating any academic honor code**.
+
+If you're working on the JPMorgan Chase Forage simulation, I  encourage you to attempt it on your own for maximum learning benefit.
