@@ -5,7 +5,7 @@ This repository contains the solution to the **JPMorgan Chase Software Engineeri
 ---
 ## My Certificate 
 
-![JPMorganChase Virtual Job Simulation](./JPMC_FORAGE_BHUVANESH_S.png)
+![JPMorganChase Virtual Job Simulation](./JPMC_FORAGE_BHUVANESH_S.pdf)
 
 ## 💼 About the Project
 
@@ -352,6 +352,8 @@ cd JPMorganChase-Forage-Job-Simulation
 ## Pre-final year student at SSN College of Engineering
 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvanesh-cse) | 🌐 [GitHub](https://github.com/BHUVANESH-SSN)
 
+## For any queries/dounts 
+Feel free to contact  bhuvaneshcsessn@gmail.com
 ## 📚 Educational Use Only
 
 This project is intended **solely for educational and learning purposes**.  
