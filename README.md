@@ -32,7 +32,7 @@ This simulation provides experience with real-world technologies used at JPMorga
 ---
 
 ## 📁 Project Structure
-![Project Preview](./preview.png)
+![Project Preview](./jpmc_forage.png)
 
 ---
 
